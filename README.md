@@ -1,2 +1,2 @@
 # Introduction-to-statistical-research
-STAT311 통계학과 학부 수업
+2학년 2학기에 수강한 STAT311 통계학과 학부 수업
